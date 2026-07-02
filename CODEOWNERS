@@ -1,0 +1,12 @@
+# Global owners
+* @vansh070605
+
+# Backend owners
+/backend/ @vansh070605
+
+# Frontend owners
+/frontend/ @vansh070605
+
+# Infrastructure and workflow owners
+/.github/ @vansh070605
+/docker-compose.yml @vansh070605

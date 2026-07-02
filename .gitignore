@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+*.db
+*.log
+
+# Alembic
+alembic.ini
+
+# Node / React
+frontend/node_modules/
+frontend/dist/
+.eslintcache
+.tmp/
+
+# IDEs
+.vscode/
+.idea/
+.DS_Store
+
+# Environments
+.env
